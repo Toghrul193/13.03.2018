@@ -1,0 +1,41 @@
+.main{
+    width: 600px;
+    height: 260px;
+    /* height: 600px; */
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    
+    
+ 
+}
+.main1{
+    width: 193px;
+    background-color: brown;
+    height: 259px;
+    overflow: hidden;
+  
+    
+    
+   
+    /* float: left; */
+}
+.main1 h2{
+    font-size: 8px;
+    color: rgb(245, 225, 225);
+    margin-left: 20px;
+}
+.main p{
+    font-size: 8px;
+    color:  rgb(245, 225, 225);
+    margin-left: 18px;
+    margin-top: 35px;
+}
+.main2 p em{
+    padding: 9px;
+    background: black; 
+}
+.main2{
+    margin-top: 85px;
+}
